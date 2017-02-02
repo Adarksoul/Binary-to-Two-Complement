@@ -1,11 +1,11 @@
 /**
  *
- *  This file produces the length of the hypotnuse when given two numbers.
+ *  This file uses the arguments from the command prompt and sends them to the two's complement function.
  *
  *  @author   Chad Manning
  *  Course:   COMP B13
- *  Created:   Jan 31, 2017
- *  Source File: Hypotenuse.c
+ *  Created:   Feb 2, 2017
+ *  Source File: twosComplementMain.c
  */
 
 #include <stdio.h>
