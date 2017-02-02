@@ -1,11 +1,11 @@
 /**
  *
- *  This file produces the length of the hypotnuse when given two numbers.
+ *  This file calculate the twos'complement of the binary string fed into it.
  *
  *  @author   Chad Manning
  *  Course:   COMP B13
- *  Created:   Jan 31, 2017
- *  Source File: Hypotenuse.c
+ *  Created:   Feb 2, 2017
+ *  Source File: twosComplement.c
  */
 
 #include <stdio.h>
