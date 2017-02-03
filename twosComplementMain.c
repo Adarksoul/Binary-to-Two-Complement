@@ -15,13 +15,10 @@
 void twosComplement(char binaryString[]);
 
 int main(int argc, char *argv[]){
-	const int MAX_VALUES_ENTERED = argc;
 	int i = 0;
-	char binaryString[100];
-
-	for(i = 1; i < MAX_VALUES_ENTERED; ++i){
-		strcpy(binaryString, argv[i]);
-		twosComplement(binaryString);
+	
+	for(i = 1; i < argc; ++i){
+		twosComplement(argv[i]);
 	}
 	
 	return 0;
